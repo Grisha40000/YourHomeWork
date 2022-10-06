@@ -62,7 +62,9 @@
    1. git remote add origin "сылка"
    2. git branch -M main или master
    3. git push -u origin main
-
+## Как выводить изменения с локального сервера в GitHab и наоборот
+1. Для вывода данных из локального сервера на GitHub нужно команда git push.
+2. Для того чтобы добавить новые изменения с GitHub на локальный сервер нужна команда git pull.
 
 
   
